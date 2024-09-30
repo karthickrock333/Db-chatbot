@@ -1,6 +1,0 @@
-Flask
-langchain
-snowflake-sqlalchemy
-openai
-sentence-transformers
-chromadb
