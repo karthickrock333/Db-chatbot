@@ -2,6 +2,9 @@
 
 SS Chatbot is a Flask-based web application that combines audio transcription, natural language processing, and database querying to create an interactive chatbot experience. The chatbot is designed to answer questions about sales data stored in a Snowflake database.
 
+![image](https://github.com/user-attachments/assets/83b7d75a-0d7e-4186-8dc2-70044fccc844)
+
+
 ## Features
 
 - Audio recording and transcription using OpenAI's Whisper model
